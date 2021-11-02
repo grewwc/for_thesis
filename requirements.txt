@@ -1,0 +1,16 @@
+astropy==4.1
+autopep8==1.5.4
+colorama==0.4.4
+contextvars==2.4
+h5py==2.10.0
+html5lib==0.9999999
+Keras==2.4.3
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+pycodestyle==2.6.0
+pycparser==2.20
+pycryptodome==3.9.9
+pytest==6.2.1
+pytz==2020.4
+PyYAML==5.3.1
+matplotlib==3.3.3
